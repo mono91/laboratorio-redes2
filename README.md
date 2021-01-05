@@ -8,3 +8,9 @@ Desde una consola que pertenezca a un host:
 iperf -c 10.0.0.6 -p 80
 Desde una consola que pertenezca a  un servidor:
 iperf -s -p 80
+
+
+....
+Autor:
+Jhonatan Marin
+UdeA
