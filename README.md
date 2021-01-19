@@ -1,3 +1,7 @@
+./pox.py forwarding.l2_learning misc.Skeleton-Lab-2
+
+
+
 Para la ejecuccion  del Skeleton-Lab3.py seguir los siguientes pasos:
 Desde una  consola  que pertenezca a un host:
 iperf  -c 10.0.0.5 -u -p 200
