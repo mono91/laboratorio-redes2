@@ -33,7 +33,7 @@ Desde una consola que pertenezca a  un servidor:
 iperf -s -p 80
 
 
-....
+
 Autor:
 Jhonatan Marin
-UdeA
+
