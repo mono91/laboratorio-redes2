@@ -33,7 +33,7 @@ Desde una consola que pertenezca a  un servidor:
 iperf -s -p 80
 
 NOTA: si se va a  ejecutar la v2 (version 2) de la practica 3 se debe de agregar net.staticArp()
- en la topologia  Topo.py despues de la linea 96 para que la topologia se inicie con las  resoluciones arp realizadas
+ en la topologia  Topo.py despues de la linea 96 para que la topologia se inicie con las  resoluciones arp ya hechas
 
 
 Autor:
