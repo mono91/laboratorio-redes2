@@ -32,6 +32,8 @@ iperf -c 10.0.0.6 -p 80
 Desde una consola que pertenezca a  un servidor:
 iperf -s -p 80
 
+NOTA: si se va a  ejecutar la v2 (version 2) de la practica 3 se debe de agregar net.staticArp()
+ en la topologia  Topo.py correspondiente a esa practica para que la topologia inicie con  la resolucion de mac ya hechas
 
 
 Autor:
